@@ -1,0 +1,38 @@
+De 3 à 8 joueurs
+
+Le but du jeu est de finir la partie avec le plus de gemmes.
+On peut récupérer des gemmes à chaque manche.
+Il y a 5 manches.
+
+Déroulement d'une manche :
+À chaque tour, une carte est tirée,
+Il existe 3 types de carte :
+    - les cartes trésors (valeurs : 1, 2, 3, 4, 5, 5, 7, 7, 9, 11, 11, 13, 14, 15, 17)
+    - les cartes dangers (5 dangers différents, 3 cartes par dangers)
+    - les reliques (5 cartes)
+
+Les joueurs peuvent ensuite décider de rester dans la partie ou de rentrer au campement.
+Les joueurs qui rentrent au camp se partagent les gemmes encore présentes sur le plateau et mettent leur gemmes
+en sécurité au camp.
+
+Lorsqu'une carte trésor est tirée, les joueurs encore en jeu se partagent les gemes présentes sur chaque carte.
+Le reste des gemmes reste sur le plateau.
+
+ATTENTION !
+Lorsque 2 cartes dangers identiques ont été révélées, tous les joueurs encore en jeu doivent rentrer au campemenent,
+ils perdent les gemmes qu'ils ont amassées dans la grotte.
+
+Si un joueur décide de sortir de la grotte alors qu'une carte relique est sur le plateau,
+ils récupère 5 gemmes pour les 3 premières reliques sorties, puis 10 gemmes ensuite.
+Les reliques sorties sont ensuite enlevées de la partie.
+Si plusieurs joueurs décident de sortir alors qu'il y a des reliques, ces dernières restent sur le plateau.
+
+Au premier tour, une seule relique est mise dans le jeu,
+à chaque nouveau tour, une relique est rajoutée.
+
+Quand tous les joueurs ont pris la décision de rester ou de partir, on passe au tour suivant.
+Quand tous les joueurs sont sortis ou qu'un piège a été découvert deux fois, on passe à la manche suivante.
+
+La partie s'arrête au bout de 5 manches, le gagnant est celui qui a récolté le plus de gemmes durant la partie.
+
+Amusez-vous bien !
