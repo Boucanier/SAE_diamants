@@ -1,12 +1,14 @@
-# SAÉ S1.01 : SAE_diamants
+# SAÉ S1.01
+
+SAÉ 1.01 : jeu Diamants
 
 ## Lancement du jeu
 
-    Version graphique :
-        Pour lancer la version graphique, il faut lancer "graph.py"
+Version graphique :
+    Pour lancer la version graphique, il faut lancer "graph.py"
 
-    Version lignes de commandes :
-        Pour lancer le version en lignes de commandes, il faut lancer "cli.py"
+Version lignes de commandes :
+    Pour lancer le version en lignes de commandes, il faut lancer "cli.py"
 
 
 ## Présentation du jeu
