@@ -2,7 +2,7 @@
 
 SAÉ 1.01 : jeu Diamants
 
-## Lancement du jeu
+## Lancement du jeu
 
 Version graphique :
     Pour lancer la version graphique, il faut lancer "graph.py"
@@ -17,7 +17,7 @@ Nous avons été jusqu'au niveau 3 dans la réalisation du jeu. Nous avons aussi
 Nous avons utilisé tkinter pour créer l'interface graphique car nous voulions utilisé le type 'Button' de cette librairie.
 
 
-## Problèmes rencontrés
+## Problèmes rencontrés
 
 Dans tkinter, nous n'avons pas trouver comment créer plusieurs boutons ayant des valeurs différentes avec une boucle.
 Nous avons donc créer des fonctions qui créent des listes de boutons afin de réduire les tailles des fonctions principales.
@@ -29,7 +29,7 @@ Quand la version graphique est lancée et que le jeu est fermé "de force" (avec
 Pour bien quitter le jeu, il faut finir la partie et quitter.
 
 
-## Idées
+## Idées
 
 - Les ia que nous avons créées ont un pourcentage de chance de sortir du jeu qui est adaptatif.
 En effet, quand aucun danger n'est présent sur le plateau, elles ne sortent pas.
