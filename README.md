@@ -5,10 +5,11 @@ SAÉ 1.01 : jeu Diamants
 ## Lancement du jeu
 
 Version graphique :
-    Pour lancer la version graphique, il faut lancer "graph.py"
+    Pour lancer la version graphique, il faut lancer "main.py"
 
 Version lignes de commandes :
-    Pour lancer le version en lignes de commandes, il faut lancer "cli.py"
+    Pour lancer le version en lignes de commandes, il faut commenter la ligne "version = "GRAPH" " dans le fichier "main.py".
+    Il faut ensuite lancer "main.py"
 
 
 ## Présentation du jeu
