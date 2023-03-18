@@ -1,4 +1,4 @@
-from main import *
+from algo import *
 from tkinter import *
 import time
 import random
@@ -551,6 +551,3 @@ def end_game_display_graph(list_player, window):
     conf_but.pack(side = BOTTOM, pady = 20)
     conf_but.wait_variable(okvar)
     dis_points.destroy()
-
-
-game_graph()
