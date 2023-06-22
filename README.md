@@ -1,17 +1,17 @@
-# SAÉ S1.01
+# SAÉ 1.01 : jeu Diamants
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-SAÉ 1.01 : jeu Diamants
+Création du jeu Diamants en python
 
 ## Lancement du jeu
 
 Version graphique :
-    Pour lancer la version graphique, il faut lancer "main.py"
+    Pour lancer la version graphique, il faut lancer _main.py_
 
 Version lignes de commandes :
-    Pour lancer le version en lignes de commandes, il faut commenter la ligne "version = "GRAPH" " dans le fichier "main.py".
-    Il faut ensuite lancer "main.py"
+    Pour lancer le version en lignes de commandes, il faut commenter la ligne "version = "GRAPH" " dans le fichier _main.py_.
+    Il faut ensuite lancer _main.py_
 
 
 ## Présentation du jeu
@@ -44,4 +44,10 @@ Enfin, quand un danger est posé sur le plateau, elles ont encore plus de chance
 
 ## Remarque
 
-Les fonctions de test pour les fonctions importantes se trouvent dans diamond_test.py
+Les fonctions de test pour les fonctions importantes se trouvent dans _diamond_test.py_
+
+---
+
+Projet réalisé dans le cadre de la SAÉ 1.01 du premier semestre de BUT Informatique à l'IUT de Vélizy
+
+Décembre 2022
