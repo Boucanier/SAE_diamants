@@ -7,11 +7,11 @@ Création du jeu Diamants en python
 ## Lancement du jeu
 
 Version graphique :
-    Pour lancer la version graphique, il faut lancer _main.py_
+    Pour lancer la version graphique, il faut lancer [_main.py_](main.py)
 
 Version lignes de commandes :
-    Pour lancer le version en lignes de commandes, il faut commenter la ligne "version = "GRAPH" " dans le fichier _main.py_.
-    Il faut ensuite lancer _main.py_
+    Pour lancer le version en lignes de commandes, il faut commenter la ligne "version = "GRAPH" " dans le fichier [_main.py_](main.py).
+    Il faut ensuite lancer [_main.py_](main.py)
 
 
 ## Présentation du jeu
@@ -44,7 +44,7 @@ Enfin, quand un danger est posé sur le plateau, elles ont encore plus de chance
 
 ## Remarque
 
-Les fonctions de test pour les fonctions importantes se trouvent dans _diamond_test.py_
+Les fonctions de test pour les fonctions importantes se trouvent dans [_diamond_test.py_](diamond_test.py)
 
 ---
 
